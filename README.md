@@ -5,6 +5,9 @@ These are colors whose various tones have long been used in Persian carpets, pot
 این رنگها از دیرباز، در هنرهای گوناگون ایرانی از جمله قالی‌بافی، سفالگری و کاشی‌کاری، به کار رفته‌اند و در دنیا با نام «ایرانی» شناخته می‌شوند. خوب است از آنها در طراحیها استفاده کنیم. 
 </p>
 
+## Palette
+![Persian Colors](https://raw.githubusercontent.com/alijsh/persian-colors/master/persian-colors.png)
+
 ## As CSS variables
 
 ```css
