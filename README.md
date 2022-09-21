@@ -39,7 +39,7 @@ $PersianPlum       : #701c1c;
 ```
 
 
-## As Matlab Virables
+## As Matlab variables
 
 ```matlab
 PersianBlue=[0.109804,0.223529,0.733333];
