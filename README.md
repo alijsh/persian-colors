@@ -1,5 +1,5 @@
 # Persian colors رنگهای ایرانی
-These are colors whose various tones have long been used in Persian carpets, pottery, tiles, etc. Here is the Wikipedia article about [Persian Blue](https://en.wikipedia.org/wiki/Persian_blue). Quoting from there: *The first recorded use of Persian blue as a color name in English was in 1669*.
+There are colors whose various shades have long been used in Persian arts including carpet weaving, pottery and tessellation. They are known as Persian colors (e.g. [Persian Blue](https://en.wikipedia.org/wiki/Persian_blue)) and can be used in creating color palettes.
 
 <p dir="rtl">
 این رنگها از دیرباز، در هنرهای گوناگون ایرانی از جمله قالی‌بافی، سفالگری و کاشی‌کاری، به کار رفته‌اند و در دنیا با نام «ایرانی» شناخته می‌شوند. خوب است از آنها در طراحیها استفاده کنیم. 
