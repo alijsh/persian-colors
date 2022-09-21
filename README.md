@@ -6,7 +6,7 @@ There are colors whose various shades have long been used in Persian arts includ
 </p>
 
 ## Palette
-![Persian Colors](https://raw.githubusercontent.com/alijsh/persian-colors/master/persian-colors.png)
+![Persian Colors](https://github.com/alijsh/persian-colors/blob/9d9e29df001353acce48d7bf15be91d4af3c8522/persian-colors.png)
 
 ## As CSS variables
 
