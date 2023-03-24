@@ -1,11 +1,27 @@
 :root {
-  --PersianBlue       : #1c39bb;
-  --MediumPersianBlue : #0067a5;
-  --PersianIndigo     : #32127a;
-  --PersianPink       : #f77fbe;
-  --PersianRose       : #fe28a2;
-  --PersianRed        : #cc3333;
-  --PersianGreen      : #00a693;
-  --PersianOrange     : #d99058;
-  --PersianPlum       : #701c1c;
+  --persian-blue-strong: #0067A5;
+  --persian-blue-pale: #91A3B0;
+  --persian-blue-vivid-pale: #BCD4E6;
+  --persian-blue-vivid: #1C39BB;
+  --persian-blue-grayish-purplish: #4C516D;
+  --persian-blue-vivid-purplish: #32127A;
+  --persian-brown-strong-reddish: #882D17;
+  --persian-green-grayish: #5E716A;
+  --persian-green-dark-grayish: #3A4B47;
+  --persian-green-brilliant-bluish: #00A693;
+  --persian-green-moderate-bluish: #317873;
+  --persian-orange-moderate-reddish: #CB6D51;
+  --persian-orange-grayish-reddish: #B4745E;
+  --persian-orange-vivid-reddish: #E25822;
+  --persian-orange-moderate: #D99058;
+  --persian-orange-vivid: #F38400;
+  --persian-pink-deep-purplish: #F77FBE;
+  --persian-pink-moderate-purplish: #D597AE;
+  --persian-pink-dark-purplish: #C17E91;
+  --persian-purple-vivid-reddish: #870074;
+  --persian-red-vivid-purplish: #FE28A2;
+  --persian-red-strong-purplish: #B3446C;
+  --persian-red-vivid-purplish: #CE4676;
+  --persian-red-moderate-purplish: #A8516E;
+  --persian-red-vivid: #CC3333;
 }
