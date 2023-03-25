@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Preview Persian Colors</title>
+    <style>
+      body {
+        font-size: 1rem;
+        padding: 0.5rem;
+        margin: 0;
+        display: flex;
+        justify-content: center;
+      }
+
+      main {
+        display: flex;
+        flex-direction: column;
+        gap: 0.5rem;
+      }
+
+      div {
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+        padding: 1rem 2rem;
+        border-radius: 0.25rem;
+      }
+    </style>
+  </head>
+  <body>
+    <main id="palette"></main>
+
+    <script type="module">
+      import { PERSIAN_COLORS } from "./persian-colors.js";
+
+      const PALETTE = document.querySelector("#palette");
+
+      for (const COLOR of PERSIAN_COLORS) {
+        const BOX = document.createElement("DIV");
+        const [R, G, B] = COLOR.rgb;
+        const FOREGROUND = R * 0.299 + G * 0.587 + B * 0.114 > 186 ? "000000" : "ffffff";
+
+        BOX.style.backgroundColor = `#${COLOR.hex}`;
+        BOX.style.color = `#${FOREGROUND}b2`;
+
+        BOX.append(document.createTextNode(COLOR.name.toUpperCase()));
+        PALETTE.append(BOX);
+      }
+    </script>
+  </body>
+</html>
