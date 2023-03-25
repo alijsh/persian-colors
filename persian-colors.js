@@ -1,4 +1,4 @@
-const colors = [
+export const PERSIAN_COLORS = [
   {
     name: "Persian Strong Blue",
     group: "Blue",
